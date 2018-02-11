@@ -1,0 +1,5 @@
+These are the result of the basaeline model 
+The accuracy is 0.8773643733111619 
+The precision is [ 0.60512821  0.25        0.66075292  0.95636261] and average precision is 0.6180609346385796
+The recall is [ 0.15485564  0.01851852  0.84833333  0.98492317] and the average recall is 0.5016576652578957
+The fscore is [ 0.24660397  0.03448276  0.74288494  0.9704328 ] , the average fscore is 0.4986011168784598, the inverse weighted fscore is 0.18502028206564725

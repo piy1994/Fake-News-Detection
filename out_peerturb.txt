@@ -1,0 +1,24 @@
+Noise fraction added = 0.05The total loss is 0.776878445920138 and the average accuracy is 0.796198099079342 
+The precision is [ 0.81378917  0.69208494  0.54285714  0.55555556] and average precision is 0.6510717035717035
+The recall is [ 0.97741582  0.39309211  0.1380814   0.02824859] and the average recall is 0.3842094776985422
+The fscore is [ 0.88812885  0.5013986   0.22016222  0.05376344] , the average fscore is 0.41586327869112777, the inverse weighted fscore is 0.16667967367455827
+ 
+ 
+Noise fraction added = 0.0001The total loss is 0.3242173017025471 and the average accuracy is 0.8787393697146596 
+The precision is [ 0.94232833  0.72328629  0.57821782  0.6       ] and average precision is 0.7109581095712542
+The recall is [ 0.96167534  0.78673246  0.4244186   0.16949153] and the average recall is 0.5855794803890145
+The fscore is [ 0.95190354  0.75367647  0.48952221  0.26431718] , the average fscore is 0.6148548500549569, the inverse weighted fscore is 0.4552514386775921
+ 
+ 
+Noise fraction added = 0.001The total loss is 0.32425023270523984 and the average accuracy is 0.8784392196396221 
+The precision is [ 0.94179185  0.722334    0.582       0.60784314] and average precision is 0.7134922466931523
+The recall is [ 0.96112784  0.7872807   0.42296512  0.17514124] and the average recall is 0.5866287252756768
+The fscore is [ 0.9513616   0.75341028  0.48989899  0.27192982] , the average fscore is 0.6166501754737302, the inverse weighted fscore is 0.46268706236208873
+ 
+ 
+Noise fraction added = 0.01The total loss is 0.33685967041409687 and the average accuracy is 0.8749374687641844 
+The precision is [ 0.93563433  0.72253449  0.57991803  0.58695652] and average precision is 0.706260843613238
+The recall is [ 0.96099097  0.7752193   0.41133721  0.15254237] and the average recall is 0.575022461689585
+The fscore is [ 0.94814315  0.74795028  0.48129252  0.24215247] , the average fscore is 0.6048846019003615, the inverse weighted fscore is 0.4313070567845299
+ 
+ 
