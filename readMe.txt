@@ -1,6 +1,6 @@
 Fake News Detection
 
-myReport.pdf that explains the whole project.
+myReport.pdf explains the whole project.
 
 Following are the libraries used
 
