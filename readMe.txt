@@ -1,5 +1,7 @@
 Fake News Detection
 
+myReport.pdf that explains the whole project.
+
 Following are the libraries used
 
 1. numpy
@@ -26,14 +28,11 @@ It also dumps the keras model weights in the result folder.
 This file also makes training and testing loss and accuracy curves which are saved in the result folder.
 This files makes plot of confusion matrix which is saved in the current directory.
 
-I ran everything on an aws instance and it took more than 14 hours for the complete grid search. I had to SCREEN my session 
-so could not actually output all the results in a Jupyter Notebook. 
-But anyway, I am storing all the results in the text files mentioned above.
+I ran everything on an aws instance and it took more than 14 hours for the complete grid search.
 
 The baseline model provided by the competetion is included in the fnc-1-baseline folder.
 Simply run the python file, fnc_kfold.py and it will output their result in the out_baseline.txt file in the parent folder.
 
-Finally I have also included a detailed report myReport.pdf that explains the whole project.
 
 
 
